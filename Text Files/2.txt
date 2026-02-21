@@ -1,8 +1,12 @@
 ye meri 2.txt hai
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 this is 2 txt file
+=======
+hi
+>>>>>>> Stashed changes
 =======
 hi
 >>>>>>> Stashed changes
